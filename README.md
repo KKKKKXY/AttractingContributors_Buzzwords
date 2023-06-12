@@ -38,3 +38,5 @@ John A. Shedd
 ### 3. Repetition is the mother of learning   
 Anonymous
 
+### 4. Bad artists always admire each other’s work.
+Anonymous
