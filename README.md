@@ -24,15 +24,16 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 Goal: I like sports. My favorite sports are baseball. I will be appreciate if you could give me some recommendations. Anyone is OK!
 
 # List of Hobby
-1. I like basketball (githubid: KKKKKXY)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Darts
+2. Basketball
+3. Soccer
+4. Running
+5. Tennis
+6. Baseball
+7. Soccer
+8. Table tennis
+9. Rugby
+10. Running
+11. Basketball
 
 
